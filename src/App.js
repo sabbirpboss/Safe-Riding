@@ -18,6 +18,10 @@ function App() {
         <Button variant="dark">Dark</Button>
         <Button variant="link">Link</Button>
       </div>
+      <div>
+        <h2>recharts</h2>
+        
+      </div>
     </div>
   );
 }
