@@ -2,26 +2,25 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import { Button } from "react-bootstrap";
+import Header from "./components/Header/Header";
+import { Route, Routes } from "react-router-dom";
+import Homepage from "./components/Homepage/Homepage";
+import Reviews from "./components/Reviews/Reviews";
+import Dashboard from "./components/Dashboard/Dashboard";
+import Blogs from "./components/Blogs/Blogs";
+import About from "./components/About/About";
 
 function App() {
   return (
     <div className="App">
-      <h2>hello react 18.0.0</h2>
-      <div>
-        <Button variant="primary">Primary</Button>
-        <Button variant="secondary">Secondary</Button>
-        <Button variant="success">Success</Button>
-        <Button variant="warning">Warning</Button>
-        <Button variant="danger">Danger</Button>
-        <Button variant="info">Info</Button>
-        <Button variant="light">Light</Button>
-        <Button variant="dark">Dark</Button>
-        <Button variant="link">Link</Button>
-      </div>
-      <div>
-        <h2>recharts</h2>
-        
-      </div>
+      <Header></Header>
+      <Routes>
+        <Route path="/home" element={<Homepage></Homepage>}></Route>
+        <Route path="/reviews" element={<Reviews></Reviews>}></Route>
+        <Route path="/dashboard" element={<Dashboard></Dashboard>}></Route>
+        <Route path="/blogs" element={<Blogs></Blogs>}></Route>
+        <Route path="/about" element={<About></About>}></Route>
+      </Routes>
     </div>
   );
 }
