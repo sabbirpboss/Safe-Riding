@@ -25,11 +25,13 @@
     line-height: 20px;
     letter-spacing: 0.005em;
     margin-left: 36px;
+    border-bottom: 2px solid #4C4C4C;
 }
 .safe-riding-navbar a:hover{
     /* text-decoration: overline;
     text-decoration-color: #4C4C4C; */
     border-top: 2px solid #4C4C4C;
+    border-bottom: 0px;
     /* transition: .2s; */
     /* border-radius: 5px; */
     color: #4C4C4C;
