@@ -1,0 +1,74 @@
+[
+    {
+      "id": "01",
+      "name": "Honda CBR 200",
+      "price": "5000",
+      "img": "https://bike-images.netlify.app/images/01.png"
+    },
+    {
+      "id": "02",
+      "name": "Yamaha FZ 160",
+      "price": "3000",
+      "img": "https://bike-images.netlify.app/images/02.png"
+    },
+    {
+      "id": "03",
+      "name": "Lifan KPT 150",
+      "price": "4500",
+      "img": "https://bike-images.netlify.app/images/03.png"
+    },
+    {
+      "id": "04",
+      "name": "Honda CBR 150",
+      "price": "4000",
+      "img": "https://bike-images.netlify.app/images/04.png"
+    },
+    {
+      "id": "05",
+      "name": "Suzuki Gixxer FR 150",
+      "price": "3000",
+      "img": "https://bike-images.netlify.app/images/05.png"
+    },
+    {
+      "id": "06",
+      "name": "Lifan k19 150",
+      "price": "3500",
+      "img": "https://bike-images.netlify.app/images/06.png"
+    },
+    {
+      "id": "07",
+      "name": "Lifan KPR 165",
+      "price": "5000",
+      "img": "https://bike-images.netlify.app/images/07.png"
+    },
+    {
+      "id": "08",
+      "name": "Honda CBX New 150",
+      "price": "5500",
+      "img": "https://bike-images.netlify.app/images/08.png"
+    },
+    {
+      "id": "09",
+      "name": "Suzuki GFX 150",
+      "price": "3000",
+      "img": "https://bike-images.netlify.app/images/09.png"
+    },
+    {
+      "id": "10",
+      "name": "Suzuki Intruder 150",
+      "price": "4000",
+      "img": "https://bike-images.netlify.app/images/10.png"
+    },
+    {
+      "id": "11",
+      "name": "Bajaj Avenger 160",
+      "price": "4800",
+      "img": "https://bike-images.netlify.app/images/11.png"
+    },
+    {
+      "id": "12",
+      "name": "Royal Enfield Meteor 350",
+      "price": "6000",
+      "img": "https://bike-images.netlify.app/images/12.png"
+    },
+  ]
