@@ -1,0 +1,38 @@
+[
+  {
+    "id": "01",
+    "name": "David",
+    "Ratings": "",
+    "img": "https://mans-face.netlify.app/images/01.png"
+  },
+  {
+    "id": "02",
+    "name": "Karnel",
+    "Ratings": "",
+    "img": "https://mans-face.netlify.app/images/02.png"
+  },
+  {
+    "id": "03",
+    "name": "Lifan",
+    "Ratings": "",
+    "img": "https://mans-face.netlify.app/images/03.png"
+  },
+  {
+    "id": "04",
+    "name": "Arif",
+    "Ratings": "",
+    "img": "https://mans-face.netlify.app/images/04.png"
+  },
+  {
+    "id": "05",
+    "name": "Liton",
+    "Ratings": "",
+    "img": "https://mans-face.netlify.app/images/05.png"
+  },
+  {
+    "id": "06",
+    "name": "Jahid",
+    "Ratings": "",
+    "img": "https://mans-face.netlify.app/images/06.png"
+  }
+]
