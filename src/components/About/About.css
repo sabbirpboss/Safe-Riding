@@ -1,0 +1,11 @@
+.about-container{
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+.about-info ol, p.note{
+    text-align: justify;
+}
+.about-info ol li, p.note{
+    font-size: 20px;
+}
