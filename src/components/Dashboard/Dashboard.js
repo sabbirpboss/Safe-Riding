@@ -1,6 +1,6 @@
 import React from 'react';
-import ChartOne from '../../ChartOne/ChartOne';
-import ChartTwo from '../../ChartTwo/ChartTwo';
+import ChartOne from '../ChartOne/ChartOne';
+import ChartTwo from '../ChartTwo/ChartTwo';
 import './Dashboard.css';
 
 

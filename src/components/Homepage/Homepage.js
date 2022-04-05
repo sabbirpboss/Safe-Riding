@@ -1,17 +1,13 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import { Link } from "react-router-dom";
+import useReviews from "../../Hooks/useReviews";
 import banner from "../../images/banner.png";
 import Review from "../Review/Review";
-import Reviews from "../Reviews/Reviews";
 import "./Homepage.css";
 
 const Homepage = () => {
-  const [reviews, setReviews] = useState([]);
-  useEffect( () => {
-    fetch('reviews.json')
-    .then(res => res.json())
-    .then(data => setReviews(data));
-}, [])
+  const [reviews, setReviews] = useReviews([]);
+
   return (
     <div>
       <div className="banner-container">
