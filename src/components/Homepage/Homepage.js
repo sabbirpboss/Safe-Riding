@@ -6,7 +6,7 @@ import Review from "../Review/Review";
 import "./Homepage.css";
 
 const Homepage = () => {
-  const [reviews, setReviews] = useReviews([]);
+  const [reviews] = useReviews([]);
 
   return (
     <div>

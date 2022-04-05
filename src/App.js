@@ -1,7 +1,5 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
-import { Button } from "react-bootstrap";
 import Header from "./components/Header/Header";
 import { Route, Routes } from "react-router-dom";
 import Homepage from "./components/Homepage/Homepage";
