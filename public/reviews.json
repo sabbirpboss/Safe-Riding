@@ -2,37 +2,43 @@
   {
     "id": "01",
     "name": "David",
-    "Ratings": "",
-    "img": "https://mans-face.netlify.app/images/01.png"
+    "ratings": "4.9",
+    "img": "https://mans-face.netlify.app/images/01.png",
+    "title": "Its an amazing bike which gives classy looks. Its engine is really awesome, very comfortable and it has a good resale value. Coming to mileage, it gives average of 44 kmpl. If you are looking for a good bike go for it. Regular servicing is must..Royal enfield is my favorite & only one of the one brand. 5. Best exhaust sounds, best riding experience."
   },
   {
     "id": "02",
     "name": "Karnel",
-    "Ratings": "",
-    "img": "https://mans-face.netlify.app/images/02.png"
+    "ratings": "3.5",
+    "img": "https://mans-face.netlify.app/images/02.png",
+    "title": "Its an amazing bike which gives classy looks. Its engine is really awesome, very comfortable and it has a good resale value. Coming to mileage, it gives average of 44 kmpl. If you are looking for a good bike go for it. Regular servicing is must..Royal enfield is my favorite & only one of the one brand. 5. Best exhaust sounds, best riding experience."
   },
   {
     "id": "03",
     "name": "Lifan",
-    "Ratings": "",
-    "img": "https://mans-face.netlify.app/images/03.png"
+    "ratings": "4.0",
+    "img": "https://mans-face.netlify.app/images/03.png",
+    "title": "Its an amazing bike which gives classy looks. Its engine is really awesome, very comfortable and it has a good resale value. Coming to mileage, it gives average of 44 kmpl. If you are looking for a good bike go for it. Regular servicing is must..Royal enfield is my favorite & only one of the one brand. 5. Best exhaust sounds, best riding experience."
   },
   {
     "id": "04",
     "name": "Arif",
-    "Ratings": "",
-    "img": "https://mans-face.netlify.app/images/04.png"
+    "ratings": "5",
+    "img": "https://mans-face.netlify.app/images/04.png",
+    "title": "Its an amazing bike which gives classy looks. Its engine is really awesome, very comfortable and it has a good resale value. Coming to mileage, it gives average of 44 kmpl. If you are looking for a good bike go for it. Regular servicing is must..Royal enfield is my favorite & only one of the one brand. 5. Best exhaust sounds, best riding experience."
   },
   {
     "id": "05",
     "name": "Liton",
-    "Ratings": "",
-    "img": "https://mans-face.netlify.app/images/05.png"
+    "ratings": "3.7",
+    "img": "https://mans-face.netlify.app/images/05.png",
+    "title": "Its an amazing bike which gives classy looks. Its engine is really awesome, very comfortable and it has a good resale value. Coming to mileage, it gives average of 44 kmpl. If you are looking for a good bike go for it. Regular servicing is must..Royal enfield is my favorite & only one of the one brand. 5. Best exhaust sounds, best riding experience."
   },
   {
     "id": "06",
     "name": "Jahid",
-    "Ratings": "",
-    "img": "https://mans-face.netlify.app/images/06.png"
+    "ratings": "2.8",
+    "img": "https://mans-face.netlify.app/images/06.png",
+    "title": "Its an amazing bike which gives classy looks. Its engine is really awesome, very comfortable and it has a good resale value. Coming to mileage, it gives average of 44 kmpl. If you are looking for a good bike go for it. Regular servicing is must..Royal enfield is my favorite & only one of the one brand. 5. Best exhaust sounds, best riding experience."
   }
 ]

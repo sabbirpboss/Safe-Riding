@@ -1,9 +1,9 @@
-.homepage{
+.banner-container{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     margin-top: 30px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
 }
 .banner-details{
     width: 900px;
@@ -41,4 +41,27 @@
     width: 500px;
     height: 700px;
     border-radius: 30px;
+}
+
+.reviews-container{
+    margin-top: 30px;
+}
+.see-all-reviews-btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.see-all-reviews-btn a{
+    background-color: #D3AA00;
+    border: none;
+    border: 1px solid orange;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    padding: 5px 50px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+.see-all-reviews-btn a:hover{
+    color: #4C4C4C;
+    transition: .3s;
 }
