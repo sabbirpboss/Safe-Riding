@@ -51,7 +51,7 @@ const ChartOne = () => {
     }
 ];
   return (
-    <div>
+    <div className="chart-one">
         <h3>This is Bar Chart</h3>
       <BarChart
         width={1200}
