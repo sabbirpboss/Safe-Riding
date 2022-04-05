@@ -1,10 +1,13 @@
 import React from 'react';
+import ChartOne from '../../ChartOne/ChartOne';
 import './Dashboard.css';
+
+
 
 const Dashboard = () => {
     return (
         <div>
-            <h2>this is dashboard</h2>
+            <ChartOne></ChartOne>
         </div>
     );
 };
