@@ -9,6 +9,14 @@
     width: 900px;
     text-align: left;
 }
+.website-name{
+    color: #D3AA00;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 50px;
+    margin-bottom: -7px;
+    font-family: 'JetBrains Mono';
+}
 .banner-title{
     font-size: 50px;
     font-weight: 900;
@@ -19,7 +27,7 @@
 .banner-details h1.custom-color{
     font-size: 50px;
     font-weight: 900;
-    color: orange;
+    color: orangered;
 }
 .banner-details p{
     color: #4C4C4C;

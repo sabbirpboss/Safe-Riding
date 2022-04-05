@@ -12,6 +12,7 @@ const Homepage = () => {
     <div>
       <div className="banner-container">
         <div className="banner-details">
+          <h1 className="website-name">Safe Riding</h1>
           <h1 className="banner-title">Royal enfield meteor</h1>
           <h1 className="custom-color">The king of the roads</h1>
           <p>
